@@ -105,7 +105,7 @@ webpackJsonp([1], {
 				})
 
 				var audio = document.createElement("audio");
-				audio.src = "../../M5000019ErSb0DTPZG-[AudioTrimmer.com].mp3";
+				audio.src = "https://catalinazzz.oss-cn-beijing.aliyuncs.com/media/M5000019ErSb0DTPZG-%5BAudioTrimmer.com%5D.mp3";
 				audio.loop = true
 
 				const text1 = '<p style="margin-left: 30px; color: white;">准备好了吗，点击确认，一键开启奇妙旅程</p> <br>'
